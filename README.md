@@ -45,3 +45,5 @@ Berikut kontrol dalam game:
 
 ## Demo Container
 [![HERE THE TUTORIAL](http://i3.ytimg.com/vi/WDHpZjE46LY/hqdefault.jpg)](https://youtu.be/WDHpZjE46LY)
+
+Klik Gambar Di Atas atau Klik -> https://youtu.be/WDHpZjE46LY
