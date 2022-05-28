@@ -16,7 +16,7 @@ fps = pygame.time.Clock()
 tittle_font = pygame.font.SysFont("dejavuserif",40)
 
 def draw_text(surf, text, size, x, y):
-    font = pygame.font.Font('jupiterc.ttf', size)
+    font = pygame.font.Font('source\jupiterc.ttf', size)
     text_surface = font.render(text, True, GREEN)
     text_rect = text_surface.get_rect()
     text_rect.midtop = (x, y)
@@ -206,8 +206,6 @@ while running:
             running=False
         elif event.type==pygame.KEYDOWN:
             if event.key==pygame.K_SPACE: # keyboard spasi untuk menembak
-                missile_sound = mixer.Sound("./audio/missile.wav")
-                missile_sound.play()
                 player.shoot()
             '''elif event.key==pygame.K_1: #cheat menambah skor dengan keyboard angka 1
                 player.score_val +=1
