@@ -44,4 +44,4 @@ Berikut kontrol dalam game:
 - Press `SPACE` to fire
 
 ## Demo Container
-[![HERE THE TUTORIAL]](https://www.youtube.com/watch?v=WDHpZjE46LY)
+[![HERE THE TUTORIAL](http://i3.ytimg.com/vi/WDHpZjE46LY/hqdefault.jpg)](https://youtu.be/WDHpZjE46LY)
