@@ -16,7 +16,7 @@ fps = pygame.time.Clock()
 tittle_font = pygame.font.SysFont("dejavuserif",40)
 
 def draw_text(surf, text, size, x, y):
-    font = pygame.font.Font('source\jupiterc.ttf', size)
+    font = pygame.font.SysFont("arial", 20)
     text_surface = font.render(text, True, GREEN)
     text_rect = text_surface.get_rect()
     text_rect.midtop = (x, y)
